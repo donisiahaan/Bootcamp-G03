@@ -1,0 +1,24 @@
+bootcamp laravel & VUE
+
+git init    : untuk inisialisasi folder
+git add     : menambahkan folder
+git commit -m "Menambah Histori"
+git push -u origin master
+
+web devlopment
+Basic :
+1. HTML         : (Hypertext Markup Language) kerangka dari website
+2. Css          : (Cascading style Sheet) Manipulasi Tampil dan Bentuk web 
+3. Javascript   : Bahasa Pemrograman Client side dan server side 
+4. PHP          : Bahasa pemrograman Server side.
+
+
+HTML
+
+Perintah didalam HTML
+<> </>
+
+<!DOCTYPE html>
+penghujung file dengan browser
+
+HTML adalah tag Root
